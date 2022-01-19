@@ -1,0 +1,28 @@
+.edit_icon{
+    margin-right: 15px;
+    margin-left: 5px;
+    background-color: white;
+}
+
+.delete_button{
+    background-color: white;
+    color: red;
+}
+
+.table{
+    max-height: 850px;
+    overflow-y: auto;
+    overflow-x: auto;
+}
+
+.title{
+    font-size: 50px;
+}
+
+.pop_out{
+    text-align: center;
+}
+
+.csv_button{
+    margin-top:10px;
+}
